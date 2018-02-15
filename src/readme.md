@@ -1,0 +1,3 @@
+This tutorial is not complete; I left off midway through the "Routing" section of the Angular v2 tutorial on the angular.io website (https://v2.angular.io/docs/ts/latest/tutorial/toh-pt6.html).
+
+I have abandoned this because I will be using Ionic, and now know enough about Angular to use Ionic, I think.  Routing should not be much of a concern since I'll be creating an app, and users won't be access pages via URLs.
